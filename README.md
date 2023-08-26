@@ -47,7 +47,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Metarock13/Metarock13/output/snake.svg" alt="Snake animation" />
-
-###
